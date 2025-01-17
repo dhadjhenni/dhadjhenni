@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Djouwad Hadj-Henni and I'm a UI Front-End Developer & designer. Right now my mind is focused on learning new skills and updgrading my knowledge.
+My name is Djouwad Hadj-Henni and I'm a Senior UI Front-End Developer
 
 # 🔧 Technologies & Tools
 
@@ -41,15 +41,6 @@ My name is Djouwad Hadj-Henni and I'm a UI Front-End Developer & designer. Right
         alt="Git"
       />
       <br /><strong>Git</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-        width="48"
-        height="48"
-        alt="Bootstrap"
-      />
-      <br /><strong>Bootstrap</strong>
     </td>
   </tr>
  </table>
