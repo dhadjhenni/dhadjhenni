@@ -42,6 +42,15 @@ My name is Djouwad Hadj-Henni and I'm a Senior UI Front-End Developer
       />
       <br /><strong>Git</strong>
     </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Vue.js</strong>
+    </td>
   </tr>
  </table>
 
