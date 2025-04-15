@@ -42,6 +42,9 @@ My name is Djouwad Hadj-Henni and I'm a Senior UI Front-End Developer
       />
       <br /><strong>Git</strong>
     </td>
+    
+    
+  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
@@ -60,8 +63,6 @@ My name is Djouwad Hadj-Henni and I'm a Senior UI Front-End Developer
       />
       <br /><strong>Astro</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
