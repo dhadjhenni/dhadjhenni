@@ -82,6 +82,17 @@ My name is Djouwad Hadj-Henni and I'm a Senior UI Front-End Developer
       <br /><strong>jQuery</strong>
     </td>
   </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"
+        width="48"
+        height="48"
+        alt="wordpress"
+      />
+      <br /><strong>Wordpress</strong>
+    </td>
+  </tr>
  </table>
 
 
